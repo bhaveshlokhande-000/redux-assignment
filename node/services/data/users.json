@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$xIiC8M8YN2aDli/o.B.fxuS34kFyfMHN/L75PDfz.Y1ZRNIFLXvpi",
+      "role": "admin"
+    },
+    {
+      "name": "adam",
+      "email": "adam@gmail.com",
+      "password": "$2a$10$FrXobaaFUAK.BYro0YAIDeVpxOenAiaLEF3hMY0x.RfZ0Nbyu4Uwe",
+      "role": "basic"
+    }
+  ]
+}

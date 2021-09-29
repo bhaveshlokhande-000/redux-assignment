@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "title": "bvcxz",
+      "description": "vc",
+      "published": true,
+      "id": "1f860e64-d4e9-46f8-a099-f264d9d03b6b"
+    },
+    {
+      "title": "gfdsa",
+      "description": "fdsa",
+      "published": true,
+      "id": "2eecd339-c832-4e5c-8c69-ee0c61e1b1fd"
+    },
+    {
+      "title": "nbgfds",
+      "description": "bgfds",
+      "published": true,
+      "id": "7e5074a8-15c1-4961-a139-162a17416448"
+    },
+    {
+      "title": "bgfds",
+      "description": "gfdsa",
+      "published": true,
+      "id": "af79def3-6cac-455e-906e-f9222b27cf31"
+    },
+    {
+      "title": "bgfds",
+      "description": "vfds",
+      "published": true,
+      "id": "d779e6d9-2469-4f46-971f-5370d9a8a683"
+    }
+  ]
+}
