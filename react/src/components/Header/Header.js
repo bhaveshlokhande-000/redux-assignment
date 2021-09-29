@@ -22,7 +22,7 @@ function Header() {
           alt="hello"
         />
         {token && (
-          <Link to="/home" style={{ textDecoration: "none" }}>
+          <Link to="/" style={{ textDecoration: "none" }}>
             <h5 className="text-muted p-3">Tutorial</h5>
           </Link>
         )}
